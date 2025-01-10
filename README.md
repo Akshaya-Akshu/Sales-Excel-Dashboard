@@ -16,4 +16,5 @@ Created an annual sales report for 2024 January month. So that, the owner can un
 ## Purpose:
 - Built for tracking sales data efficiently.
 
-- Dashboard Interaction <a href="https://https://github.com/Akshaya-Akshu/Sales-Excel-Dashboard/blob/main/IMG%20of%20Sales%20dashboard%20.png">Dataset</a>
+## Dashboard Interaction
+- <a href="https://https://github.com/Akshaya-Akshu/Sales-Excel-Dashboard/blob/main/IMG%20of%20Sales%20dashboard%20.png">Dataset</a>
