@@ -2,6 +2,9 @@
 ## Project Objective
 Created an annual sales report for 2024 January month. So that, the owner can understand their customers and grow more sales in 2025 January month. 
 
+ ## Dataset Used
+- <a href="https://github.com/Akshaya-Akshu/Sales-Excel-Dashboard/blob/main/Sales%20Excel%20Dashboard.xlsx">view Dataset</a>
+
 ## Features
 - Tracks key sales metrics like region, product wise performance, and trends.
 - Includes interactive charts, pivot tables, and slicers for data filtering.
@@ -13,8 +16,6 @@ Created an annual sales report for 2024 January month. So that, the owner can un
 ## Purpose:
 - Built for tracking sales data efficiently.
 
- ## Dataset Used
-- <a href="https://github.com/Akshaya-Akshu/Sales-Excel-Dashboard/blob/main/Sales%20Excel%20Dashboard.xlsx">view Dataset</a>
+## Dashboard 
+![IMG of Sales dashboard ](https://github.com/user-attachments/assets/791c7e84-505d-4ef8-93e8-90014aeabb45)
 
-## Dashboard Interaction
-- <a href="https://github.com/Akshaya-Akshu/Sales-Excel-Dashboard/blob/main/IMG%20of%20Sales%20dashboard%20.png">view Dashboard</a>
