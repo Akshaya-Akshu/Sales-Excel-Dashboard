@@ -3,7 +3,7 @@
 Created an annual sales report for 2024 January month. So that, the owner can understand their customers and grow more sales in 2025 January month. 
 
 ## Dataset Used
-- <a href="https://https://github.com/Akshaya-Akshu/Sales-Excel-Dashboard/blob/main/Sales%20Excel%20Dashboard.xlsx">Dataset</a>
+- <a href="https://github.com/Akshaya-Akshu/Sales-Excel-Dashboard/blob/main/Sales%20Excel%20Dashboard.xlsx">Dataset</a>
 
 ## Features
 - Tracks key sales metrics like revenue, product wise performance, and trends.
