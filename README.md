@@ -3,7 +3,7 @@
 Created an annual sales report for 2024 January month. So that, the owner can understand their customers and grow more sales in 2025 January month. 
 
 ## Features
-- Tracks key sales metrics like revenue, product wise performance, and trends.
+- Tracks key sales metrics like region, product wise performance, and trends.
 - Includes interactive charts, pivot tables, and slicers for data filtering.
 - Simplifies reporting with a clean and user-friendly layout.
 
