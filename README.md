@@ -20,7 +20,7 @@ Created an annual sales report for 2024 January month. So that, the owner can un
 ## Purpose:
 - Built for tracking sales data efficiently.
 
-# Insights
+## Insights
 - Total Sales provides an overall view of the total revenue generated during the analyzed period.
 - Average shows the average revenue earned per sale.
 - Units Sold displays the total number of units sold, reflecting the volume of products.
